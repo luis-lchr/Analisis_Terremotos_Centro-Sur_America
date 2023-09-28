@@ -24,11 +24,10 @@ if response.status_code == 200:
         return df
 
     def procesar_columna_profundidad_ubicacion(df):
-        df['Profundidad'] = df['Profundidad'].str.replace('km', '')
+        df['Profundidad'] = df['Profundidad'].str.extract('(\d+\.?\d*)').astype(float)
         df = df.drop(['Ubicacion'], axis=1)
 
         return df
-
 
     df = procesar_columna_fecha_y_hora(df)
     df = procesar_columna_profundidad_ubicacion(df)
@@ -38,9 +37,9 @@ if response.status_code == 200:
 
     print(df.head())
 
-    # df.to_csv('dataset_2076326.csv', index=False)  
-    df.to_csv('dataset_limpio_2076326.csv', index=False)  
-    
+    # df.to_csv('dataset_2076326.csv', index=False)
+    df.to_csv('dataset_limpio_2076326.csv', index=False)
+
     print("El conjunto de datos se ha descargado exitosamente.")
 else:
     print("Error")
