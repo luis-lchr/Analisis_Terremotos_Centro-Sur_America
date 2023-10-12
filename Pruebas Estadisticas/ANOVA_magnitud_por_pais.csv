@@ -1,0 +1,5 @@
+ANOVA para la Magnitud por País
+
+              sum_sq       df           F  PR(>F)
+C(Pais)   242.323072     14.0  315.313551     0.0
+Residual  685.734611  12492.0         NaN     NaN

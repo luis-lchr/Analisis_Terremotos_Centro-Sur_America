@@ -1,0 +1,5 @@
+ANOVA para la Magnitud por Hora del Día
+
+                     sum_sq       df         F    PR(>F)
+C(Hora_del_dia)    0.484103      3.0  2.175115  0.088725
+Residual         927.573580  12503.0       NaN       NaN

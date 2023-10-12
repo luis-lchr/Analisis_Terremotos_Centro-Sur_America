@@ -1,0 +1,5 @@
+ANOVA para la Profundidad por País
+
+                sum_sq       df          F  PR(>F)
+C(Pais)   2.426675e+07     14.0  328.36517     0.0
+Residual  6.594146e+07  12492.0        NaN     NaN

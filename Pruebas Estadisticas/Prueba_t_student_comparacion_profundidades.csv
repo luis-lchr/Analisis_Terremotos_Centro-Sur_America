@@ -1,0 +1,106 @@
+Comparacion,Estadistica_t,Valor_p,Diferencia_en_profundidades,Significativo_nivel_0.05
+peru vs dominican-republic,11.421539585922229,1.4828204106359877e-26,44.20538800377687,La diferencia en profundidades es estadísticamente significativa.
+peru vs guatemala,7.40873555746553,1.8439939145013877e-13,20.034498561934555,La diferencia en profundidades es estadísticamente significativa.
+peru vs costarica,16.588419333304063,1.5621030109806878e-57,46.45559890380246,La diferencia en profundidades es estadísticamente significativa.
+peru vs mexico,12.745727670796196,8.274349008222056e-36,33.575167362473636,La diferencia en profundidades es estadísticamente significativa.
+peru vs panama,22.05641174919384,1.28006701516032e-93,55.70101641907741,La diferencia en profundidades es estadísticamente significativa.
+peru vs puertorico,9.266578541372759,1.5577659563765276e-17,39.291281905803075,La diferencia en profundidades es estadísticamente significativa.
+peru vs argentina,-20.269267194658198,2.2946383135655782e-83,-82.53941484776894,La diferencia en profundidades es estadísticamente significativa.
+peru vs bolivia,-18.275339674519902,1.4547393081884515e-70,-56.00704019496723,La diferencia en profundidades es estadísticamente significativa.
+peru vs brazil,-3.7390201705973154,0.00018982278947186535,-13.627804093743109,La diferencia en profundidades es estadísticamente significativa.
+peru vs chile,0.8648838370017841,0.387192706801309,2.7086336065774077,No hay evidencia estadística de diferencia en profundidades.
+peru vs colombia,7.686631097788078,2.2145183521572337e-14,22.574320383835115,La diferencia en profundidades es estadísticamente significativa.
+peru vs ecuador,12.014955308782964,4.897884194072345e-32,36.19877116864563,La diferencia en profundidades es estadísticamente significativa.
+peru vs paraguay,-10.154842021276501,4.3132586232904434e-11,-405.13231691425597,La diferencia en profundidades es estadísticamente significativa.
+peru vs venezuela,-1.6231818572485326,0.10478368956520298,-5.9933808644539965,No hay evidencia estadística de diferencia en profundidades.
+dominican-republic vs guatemala,-7.149495906420322,8.849508217591318e-12,-24.170889441842313,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs costarica,0.6506693667758953,0.5157955530986942,2.2502109000255928,No hay evidencia estadística de diferencia en profundidades.
+dominican-republic vs mexico,-3.196960701721531,0.0015728524869076405,-10.630220641303232,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs panama,3.548518667432861,0.00047431332761860377,11.495628415300544,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs puertorico,-1.0454209090188284,0.2968143245104712,-4.914106097973793,No hay evidencia estadística de diferencia en profundidades.
+dominican-republic vs argentina,-27.858010133705037,1.7860136228262851e-115,-126.74480285154581,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs bolivia,-27.265221530109926,2.1283941531667e-89,-100.2124281987441,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs brazil,-13.863903518414887,1.4121388446051388e-37,-57.83319209751998,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs chile,-11.120203883667306,5.271283195789455e-25,-41.49675439719946,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs colombia,-6.059787188637227,3.847605474831993e-09,-21.631067619941753,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs ecuador,-2.204236289088357,0.028192910252888875,-8.00661683513124,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs paraguay,-11.248333238982104,3.670526534559552e-12,-449.3377049180328,La diferencia en profundidades es estadísticamente significativa.
+dominican-republic vs venezuela,-11.914759241046989,4.648581773086983e-29,-50.198768868230864,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs costarica,12.752114947469952,3.905853408813589e-35,26.421100341867906,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs mexico,7.3551264881405,2.4866227245907016e-13,13.54066880053908,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs panama,21.210363474950885,4.2437586157216624e-85,35.66651785714286,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs puertorico,5.069582582294932,1.1755098382869927e-06,19.25678334386852,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs argentina,-28.413465558260523,3.662045582227771e-142,-102.5739134097035,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs bolivia,-31.460887954175625,2.010260060148505e-188,-76.04153875690179,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs brazil,-10.789265583647532,3.7693498588664566e-26,-33.662302655677664,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs chile,-6.925826309483865,5.975961052513193e-12,-17.325864955357147,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs colombia,1.1274162163346226,0.2596886794917012,2.53982182190056,No hay evidencia estadística de diferencia en profundidades.
+guatemala vs ecuador,6.875563952871852,9.938581612920993e-12,16.164272606711073,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs paraguay,-10.668921019567707,1.4472380972724117e-11,-425.1668154761905,La diferencia en profundidades es estadísticamente significativa.
+guatemala vs venezuela,-8.196538977161914,8.833509617186226e-16,-26.02787942638855,La diferencia en profundidades es estadísticamente significativa.
+costarica vs mexico,-6.506113182523402,1.1463443901072277e-10,-12.880431541328825,La diferencia en profundidades es estadísticamente significativa.
+costarica vs panama,5.04543502304349,5.752291913974519e-07,9.245417515274951,La diferencia en profundidades es estadísticamente significativa.
+costarica vs puertorico,-1.8523690757523215,0.0658402996307037,-7.164316997999386,No hay evidencia estadística de diferencia en profundidades.
+costarica vs argentina,-35.02689008635091,1.6670504055375173e-196,-128.9950137515714,La diferencia en profundidades es estadísticamente significativa.
+costarica vs bolivia,-40.5903656886947,6.297731194288447e-263,-102.4626390987697,La diferencia en profundidades es estadísticamente significativa.
+costarica vs brazil,-18.75369547505547,3.4427358562314234e-70,-60.08340299754557,La diferencia en profundidades es estadísticamente significativa.
+costarica vs chile,-16.790621019229118,3.935830239578787e-58,-43.74696529722505,La diferencia en profundidades es estadísticamente significativa.
+costarica vs colombia,-10.087015344081482,3.37473778560725e-23,-23.881278519967346,La diferencia en profundidades es estadísticamente significativa.
+costarica vs ecuador,-4.167500681400624,3.332406162095011e-05,-10.256827735156833,La diferencia en profundidades es estadísticamente significativa.
+costarica vs paraguay,-11.330027734868564,3.4693752435844918e-12,-451.5879158180584,La diferencia en profundidades es estadísticamente significativa.
+costarica vs venezuela,-16.09911306739814,2.1932073231124084e-51,-52.44897976825646,La diferencia en profundidades es estadísticamente significativa.
+mexico vs panama,14.123408324757587,8.978881123545394e-42,22.125849056603776,La diferencia en profundidades es estadísticamente significativa.
+mexico vs puertorico,1.5246942131403702,0.12958488271349092,5.716114543329439,No hay evidencia estadística de diferencia en profundidades.
+mexico vs argentina,-32.635200208897245,1.2278943334206297e-174,-116.11458221024257,La diferencia en profundidades es estadísticamente significativa.
+mexico vs bolivia,-38.307518177318386,1.0585852293523411e-261,-89.58220755744087,La diferencia en profundidades es estadísticamente significativa.
+mexico vs brazil,-15.428035901322998,1.3630230939171952e-49,-47.202971456216744,La diferencia en profundidades es estadísticamente significativa.
+mexico vs chile,-12.723979124628825,1.649532234632229e-35,-30.866533755896228,La diferencia en profundidades es estadísticamente significativa.
+mexico vs colombia,-5.073428986674902,4.2470752512189436e-07,-11.00084697863852,La diferencia en profundidades es estadísticamente significativa.
+mexico vs ecuador,1.1556836013277707,0.2480644736014066,2.6236038061719924,No hay evidencia estadística de diferencia en profundidades.
+mexico vs paraguay,-11.009998095436675,6.9525185431890424e-12,-438.7074842767296,La diferencia en profundidades es estadísticamente significativa.
+mexico vs venezuela,-12.697996741260678,7.779449901757395e-34,-39.56854822692763,La diferencia en profundidades es estadísticamente significativa.
+panama vs puertorico,-4.467222502610183,1.7115471634910703e-05,-16.409734513274337,La diferencia en profundidades es estadísticamente significativa.
+panama vs argentina,-39.74548309486402,8.941226397823835e-225,-138.24043126684634,La diferencia en profundidades es estadísticamente significativa.
+panama vs bolivia,-50.42845994565046,0.0,-111.70805661404464,La diferencia en profundidades es estadísticamente significativa.
+panama vs brazil,-23.371642143500956,3.6305953688682464e-99,-69.32882051282053,La diferencia en profundidades es estadísticamente significativa.
+panama vs chile,-22.968204622078193,1.2157706896253725e-97,-52.992382812500004,La diferencia en profundidades es estadísticamente significativa.
+panama vs colombia,-16.280760100315025,1.9013264219156646e-54,-33.1266960352423,La diferencia en profundidades es estadísticamente significativa.
+panama vs ecuador,-9.10076772375282,7.336435716443896e-19,-19.502245250431784,La diferencia en profundidades es estadísticamente significativa.
+panama vs paraguay,-11.567324087714436,2.1641081600418457e-12,-460.83333333333337,La diferencia en profundidades es estadísticamente significativa.
+panama vs venezuela,-20.39702975386587,4.474076270651572e-73,-61.69439728353141,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs argentina,-25.026339447628832,1.3299010039622922e-81,-121.83069675357201,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs bolivia,-23.45518707958024,2.2966688227552502e-58,-95.2983221007703,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs brazil,-11.716414451648753,4.062285442668132e-26,-52.91908599954618,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs chile,-8.892464529513683,3.4527314470211376e-16,-36.58264829922567,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs colombia,-4.213485264995974,4.018958597655134e-05,-16.71696152196796,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs ecuador,-0.7685056822354339,0.4431745233709371,-3.092510737157447,No hay evidencia estadística de diferencia en profundidades.
+puertorico vs paraguay,-11.114878719142231,4.6568505684642814e-12,-444.423598820059,La diferencia en profundidades es estadísticamente significativa.
+puertorico vs venezuela,-9.941376014566373,3.5954201429397545e-20,-45.28466277025707,La diferencia en profundidades es estadísticamente significativa.
+argentina vs bolivia,6.8252412244511635,1.1770440879858859e-11,26.532374652801707,La diferencia en profundidades es estadísticamente significativa.
+argentina vs brazil,15.807700152977828,3.226454552450644e-53,68.91161075402583,La diferencia en profundidades es estadísticamente significativa.
+argentina vs chile,21.633505872890453,1.0789283574430617e-92,85.24804845434635,La diferencia en profundidades es estadísticamente significativa.
+argentina vs colombia,27.75310108707389,3.552089017329199e-140,105.11373523160405,La diferencia en profundidades es estadísticamente significativa.
+argentina vs ecuador,30.867751233856765,5.102273310406911e-165,118.73818601641457,La diferencia en profundidades es estadísticamente significativa.
+argentina vs paraguay,-8.071460614190697,6.032429655079932e-09,-322.592902066487,La diferencia en profundidades es estadísticamente significativa.
+argentina vs venezuela,17.39977126717908,2.092317762249273e-62,76.54603398331494,La diferencia en profundidades es estadísticamente significativa.
+bolivia vs brazil,12.32994260194189,1.0977319680757149e-33,42.37923610122412,La diferencia en profundidades es estadísticamente significativa.
+bolivia vs chile,20.334586304825308,2.604240379095813e-85,58.71567380154464,La diferencia en profundidades es estadísticamente significativa.
+bolivia vs colombia,29.378740074975774,1.9931563060910508e-166,78.58136057880235,La diferencia en profundidades es estadísticamente significativa.
+bolivia vs ecuador,33.4323809752062,8.89751541998805e-192,92.20581136361287,La diferencia en profundidades es estadísticamente significativa.
+bolivia vs paraguay,-8.755043296510657,1.1790838109015851e-09,-349.1252767192887,La diferencia en profundidades es estadísticamente significativa.
+bolivia vs venezuela,14.340636203133489,3.557614412377013e-43,50.013659330513235,La diferencia en profundidades es estadísticamente significativa.
+brazil vs chile,4.671400248701678,3.210480294356069e-06,16.336437700320516,La diferencia en profundidades es estadísticamente significativa.
+brazil vs colombia,10.892256269856222,9.51854470218908e-27,36.202124477578224,La diferencia en profundidades es estadísticamente significativa.
+brazil vs ecuador,14.693852022250946,7.948533677890522e-46,49.82657526238874,La diferencia en profundidades es estadísticamente significativa.
+brazil vs paraguay,-9.80579732673542,9.271263376550463e-11,-391.50451282051284,La diferencia en profundidades es estadísticamente significativa.
+brazil vs venezuela,1.9053162584030878,0.05693656548659642,7.634423229289112,No hay evidencia estadística de diferencia en profundidades.
+chile vs colombia,7.220032309285399,7.269508691550486e-13,19.865686777257707,La diferencia en profundidades es estadísticamente significativa.
+chile vs ecuador,11.823838503402747,6.092366640944786e-31,33.49013756206822,La diferencia en profundidades es estadísticamente significativa.
+chile vs paraguay,-10.226122973382031,3.727325020108905e-11,-407.84095052083336,La diferencia en profundidades es estadísticamente significativa.
+chile vs venezuela,-2.4535432614095605,0.014288416239625122,-8.702014471031404,La diferencia en profundidades es estadísticamente significativa.
+colombia vs ecuador,5.209631470528204,2.1623157906125513e-07,13.624450784810513,La diferencia en profundidades es estadísticamente significativa.
+colombia vs paraguay,-10.728222004338312,1.246326510452063e-11,-427.70663729809104,La diferencia en profundidades es estadísticamente significativa.
+colombia vs venezuela,-8.462493799205893,8.67632951304058e-17,-28.56770124828911,La diferencia en profundidades es estadísticamente significativa.
+ecuador vs paraguay,-11.06839198920644,5.929914622370398e-12,-441.33108808290154,La diferencia en profundidades es estadísticamente significativa.
+ecuador vs venezuela,-12.25765594215105,2.519299699075264e-32,-42.192152033099624,La diferencia en profundidades es estadísticamente significativa.
+paraguay vs venezuela,9.99591726548334,5.960231721874804e-11,399.13893604980194,La diferencia en profundidades es estadísticamente significativa.

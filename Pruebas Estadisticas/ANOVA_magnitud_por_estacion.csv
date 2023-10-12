@@ -1,0 +1,5 @@
+ANOVA para la Magnitud por Estación del Año
+
+                 sum_sq       df          F        PR(>F)
+C(Estacion)    3.136104      3.0  14.131183  3.425415e-09
+Residual     924.921579  12503.0        NaN           NaN

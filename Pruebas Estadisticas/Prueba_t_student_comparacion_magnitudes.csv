@@ -1,0 +1,106 @@
+Comparacion,Estadistica_t,Valor_p,Diferencia_en_magnitudes,Significativo_nivel_0.05
+peru vs dominican-republic,8.19879164894839,1.822826573727758e-14,0.16761857154453796,La diferencia en magnitudes es estadísticamente significativa.
+peru vs guatemala,22.123867337581284,1.4045414669522018e-99,0.20686769332439692,La diferencia en magnitudes es estadísticamente significativa.
+peru vs costarica,8.173569337891674,1.1425376936074099e-15,0.10989874026455837,La diferencia en magnitudes es estadísticamente significativa.
+peru vs mexico,-1.9632962259810276,0.04972654144903466,-0.015839516918190633,La diferencia en magnitudes es estadísticamente significativa.
+peru vs panama,4.159685959765956,4.226881198889761e-05,0.08125062983233367,La diferencia en magnitudes es estadísticamente significativa.
+peru vs puertorico,7.478314027255977,1.0598769262815363e-11,0.1937658707369545,La diferencia en magnitudes es estadísticamente significativa.
+peru vs argentina,11.5314714887832,6.32897140048613e-30,0.11930873106024631,La diferencia en magnitudes es estadísticamente significativa.
+peru vs bolivia,15.798758526642454,5.127693427665243e-54,0.1415949109670338,La diferencia en magnitudes es estadísticamente significativa.
+peru vs brazil,-30.66675639762382,1.461919293349058e-171,-0.2443562077745023,La diferencia en magnitudes es estadísticamente significativa.
+peru vs chile,-29.84568885960578,2.0306379608029487e-162,-0.22741430072322188,La diferencia en magnitudes es estadísticamente significativa.
+peru vs colombia,9.207156405879724,7.38748613149994e-20,0.09506952361598575,La diferencia en magnitudes es estadísticamente significativa.
+peru vs ecuador,7.958009995154759,4.828785373569644e-15,0.10468643869819427,La diferencia en magnitudes es estadísticamente significativa.
+peru vs paraguay,-0.42365908448112366,0.6747756281028038,-0.01697159238988899,No hay evidencia estadística de diferencia en magnitudes.
+peru vs venezuela,10.715926452778646,1.8548967967169602e-25,0.138048215193586,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs guatemala,1.9169040461693108,0.05650468287608858,0.03924912177985895,No hay evidencia estadística de diferencia en magnitudes.
+dominican-republic vs costarica,-2.5494097968057017,0.01125086281319925,-0.057719831279979594,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs mexico,-9.208707471315625,4.074700628591485e-17,-0.1834580884627286,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs panama,-3.233735645900075,0.0013241705489515484,-0.0863679417122043,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs puertorico,0.8255496730459208,0.40989965619808255,0.02614729919241654,No hay evidencia estadística de diferencia en magnitudes.
+dominican-republic vs argentina,-2.30608871950967,0.021930276095764693,-0.048309840484291655,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs bolivia,-1.2818903606587315,0.201231949637336,-0.02602366057750416,No hay evidencia estadística de diferencia en magnitudes.
+dominican-republic vs brazil,-20.72091662745216,6.602789148388252e-52,-0.41197477931904025,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs chile,-20.006720730195525,2.5917686334350407e-49,-0.39503287226775985,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs colombia,-3.4648499542354116,0.0006250428038434564,-0.07254904792855221,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs ecuador,-2.8008422164685274,0.005408923784227651,-0.06293213284634369,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs paraguay,-4.194609696764388,0.00012953038602880204,-0.18459016393442695,La diferencia en magnitudes es estadísticamente significativa.
+dominican-republic vs venezuela,-1.32539143904895,0.18601562534769608,-0.029570356350951954,No hay evidencia estadística de diferencia en magnitudes.
+guatemala vs costarica,-7.186792844080266,1.4852053629486876e-12,-0.09696895305983855,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs mexico,-27.33957057837795,3.942172201138091e-144,-0.22270721024258755,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs panama,-6.420406033503354,5.646855192881643e-10,-0.12561706349206325,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs puertorico,-0.505182944755489,0.6142969386244324,-0.013101822587442413,No hay evidencia estadística de diferencia en magnitudes.
+guatemala vs argentina,-8.41313624234863,6.941434332247165e-17,-0.08755896226415061,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs bolivia,-7.226180739233028,6.272778429354294e-13,-0.06527278235736311,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs brazil,-56.07195304843642,0.0,-0.4512239010988992,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs chile,-56.38293382958324,0.0,-0.4342819940476188,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs colombia,-10.763499438129093,2.1309496953997288e-26,-0.11179816970841117,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs ecuador,-7.739290132239883,2.4590114507039013e-14,-0.10218125462620264,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs paraguay,-5.585458860589548,4.151035491761375e-06,-0.2238392857142859,La diferencia en magnitudes es estadísticamente significativa.
+guatemala vs venezuela,-5.321802088027522,1.2605954128459257e-07,-0.06881947813081091,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs mexico,-9.949471479148308,8.199937184387363e-22,-0.125738257182749,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs panama,-1.3128708564138345,0.18995697379041396,-0.028648110432224705,No hay evidencia estadística de diferencia en magnitudes.
+costarica vs puertorico,3.030304898050151,0.0028378751593555194,0.08386713047239613,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs argentina,0.6626286804443549,0.5077274965067664,0.00940999079568794,No hay evidencia estadística de diferencia en magnitudes.
+costarica vs bolivia,2.3963745992918604,0.016793990273730245,0.031696170702475435,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs brazil,-28.17301282674075,3.923150648765667e-114,-0.35425494803906066,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs chile,-27.298644055489902,3.189309846346094e-107,-0.33731304098778025,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs colombia,-1.0453494861953188,0.29612506940367533,-0.014829216648572618,No hay evidencia estadística de diferencia en magnitudes.
+costarica vs ecuador,-0.31858734659800003,0.7501025176186525,-0.005212301566364097,No hay evidencia estadística de diferencia en magnitudes.
+costarica vs paraguay,-3.0776107609832972,0.004084287355634659,-0.12687033265444736,La diferencia en magnitudes es estadísticamente significativa.
+costarica vs venezuela,1.7438096171777764,0.08148362409075972,0.02814947492902764,No hay evidencia estadística de diferencia en magnitudes.
+mexico vs panama,5.113837842404778,6.222669859385588e-07,0.0970901467505243,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs puertorico,8.219671303994303,2.751743813585126e-13,0.20960538765514514,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs argentina,14.575671135147116,1.2093993074946151e-45,0.13514824797843694,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs bolivia,20.452766173187168,1.1918682901529277e-87,0.15743442788522444,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs brazil,-35.08712144377162,5.613310902958186e-219,-0.22851669085631166,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs chile,-34.78946311940435,3.3085475857743833e-218,-0.21157478380503125,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs colombia,11.991430528289932,5.497697334903733e-32,0.11090904053417638,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs ecuador,9.776707584285836,2.2384855527143217e-21,0.1205259556163849,La diferencia en magnitudes es estadísticamente significativa.
+mexico vs paraguay,-0.028447216412696697,0.9774949809215516,-0.0011320754716983572,No hay evidencia estadística de diferencia en magnitudes.
+mexico vs venezuela,12.784719953203165,3.2311654301331424e-34,0.15388773211177664,La diferencia en magnitudes es estadísticamente significativa.
+panama vs puertorico,3.6187759025505435,0.00036345214861332553,0.11251524090462084,La diferencia en magnitudes es estadísticamente significativa.
+panama vs argentina,1.8971821230759054,0.0587200339100067,0.038058101227912644,No hay evidencia estadística de diferencia en magnitudes.
+panama vs bolivia,3.1132837004338088,0.0020449148244193497,0.06034428113470014,La diferencia en magnitudes es estadísticamente significativa.
+panama vs brazil,-17.18820917145548,2.509778240356373e-44,-0.32560683760683595,La diferencia en magnitudes es estadísticamente significativa.
+panama vs chile,-16.418599924017055,2.551945986962117e-41,-0.30866493055555555,La diferencia en magnitudes es estadísticamente significativa.
+panama vs colombia,0.689234051399312,0.49118528590682975,0.013818893783652086,No hay evidencia estadística de diferencia en magnitudes.
+panama vs ecuador,1.082835019759194,0.27952453309165914,0.023435808865860608,No hay evidencia estadística de diferencia en magnitudes.
+panama vs paraguay,-2.2532908923013513,0.029436246425494892,-0.09822222222222265,La diferencia en magnitudes es estadísticamente significativa.
+panama vs venezuela,2.6443830818941896,0.008509159179791137,0.056797585361252345,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs argentina,-2.8299638169484784,0.005362281085630782,-0.0744571396767082,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs bolivia,-2.022330076328342,0.04526537409021879,-0.0521709597699207,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs brazil,-17.20210974302724,4.141691202927253e-34,-0.4381220785114568,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs chile,-16.606586011033592,1.3463067288208885e-32,-0.4211801714601764,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs colombia,-3.7524091421869663,0.0002587123941871333,-0.09869634712096875,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs ecuador,-3.2350117733632815,0.001474969448252142,-0.08907943203876023,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs paraguay,-4.503234081547212,3.549628320643999e-05,-0.2107374631268435,La diferencia en magnitudes es estadísticamente significativa.
+puertorico vs venezuela,-2.032972302349091,0.04371941514645017,-0.055717655543368494,La diferencia en magnitudes es estadísticamente significativa.
+argentina vs bolivia,2.2152737036720307,0.026838498922273312,0.022286179906787495,La diferencia en magnitudes es estadísticamente significativa.
+argentina vs brazil,-39.590947438599045,1.016980827890744e-244,-0.3636649388347486,La diferencia en magnitudes es estadísticamente significativa.
+argentina vs chile,-39.023468046231194,1.4908168392930136e-234,-0.3467230317834682,La diferencia en magnitudes es estadísticamente significativa.
+argentina vs colombia,-2.146644338923572,0.031928428555827205,-0.024239207444260558,La diferencia en magnitudes es estadísticamente significativa.
+argentina vs ecuador,-1.049998712647638,0.2939406489329405,-0.014622292362052036,No hay evidencia estadística de diferencia en magnitudes.
+argentina vs paraguay,-3.380021563466495,0.0019513705633172273,-0.1362803234501353,La diferencia en magnitudes es estadísticamente significativa.
+argentina vs venezuela,1.3709418930536237,0.17065175454432757,0.0187394841333397,No hay evidencia estadística de diferencia en magnitudes.
+bolivia vs brazil,-50.83054226457197,0.0,-0.3859511187415361,La diferencia en magnitudes es estadísticamente significativa.
+bolivia vs chile,-51.064155014958786,0.0,-0.3690092116902557,La diferencia en magnitudes es estadísticamente significativa.
+bolivia vs colombia,-4.6345103189774255,3.7732250493758483e-06,-0.04652538735104805,La diferencia en magnitudes es estadísticamente significativa.
+bolivia vs ecuador,-2.854257564754144,0.004409306967365403,-0.03690847226883953,La diferencia en magnitudes es estadísticamente significativa.
+bolivia vs paraguay,-3.9654902202850804,0.0004125069706610905,-0.1585665033569228,La diferencia en magnitudes es estadísticamente significativa.
+bolivia vs venezuela,-0.2802851591105602,0.7793185044950204,-0.0035466957734477944,No hay evidencia estadística de diferencia en magnitudes.
+brazil vs chile,2.848014011159968,0.004445748124972953,0.016941907051280403,La diferencia en magnitudes es estadísticamente significativa.
+brazil vs colombia,37.04637864504647,8.24118629875837e-223,0.33942573139048804,La diferencia en magnitudes es estadísticamente significativa.
+brazil vs ecuador,28.463421968154154,5.431212145271093e-122,0.34904264647269656,La diferencia en magnitudes es estadísticamente significativa.
+brazil vs paraguay,5.716692201184645,3.171922343097035e-06,0.2273846153846133,La diferencia en magnitudes es estadísticamente significativa.
+brazil vs venezuela,31.946237898330523,3.231868754411648e-144,0.3824044229680883,La diferencia en magnitudes es estadísticamente significativa.
+chile vs colombia,36.394351340466905,8.217524325234651e-213,0.32248382433920764,La diferencia en magnitudes es estadísticamente significativa.
+chile vs ecuador,27.584602324850312,1.445563729103183e-114,0.33210073942141616,La diferencia en magnitudes es estadísticamente significativa.
+chile vs paraguay,5.2998598132924615,1.0427038305048834e-05,0.2104427083333329,La diferencia en magnitudes es estadísticamente significativa.
+chile vs venezuela,31.126547912545128,2.948967974867686e-136,0.3654625159168079,La diferencia en magnitudes es estadísticamente significativa.
+colombia vs ecuador,0.6913370166119001,0.48949426794981243,0.009616915082208521,No hay evidencia estadística de diferencia en magnitudes.
+colombia vs paraguay,-2.7792078910773728,0.009121696944022963,-0.11204111600587474,La diferencia en magnitudes es estadísticamente significativa.
+colombia vs venezuela,3.1478468663172894,0.001685704706688744,0.04297869157760026,La diferencia en magnitudes es estadísticamente significativa.
+ecuador vs paraguay,-2.9579102243974678,0.005600165861108188,-0.12165803108808326,La diferencia en magnitudes es estadísticamente significativa.
+ecuador vs venezuela,2.0980749904767726,0.036113572342534234,0.03336177649539174,La diferencia en magnitudes es estadísticamente significativa.
+paraguay vs venezuela,3.7769695944224217,0.0006158192325991602,0.155019807583475,La diferencia en magnitudes es estadísticamente significativa.

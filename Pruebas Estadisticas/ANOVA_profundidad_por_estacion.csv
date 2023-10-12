@@ -1,0 +1,5 @@
+ANOVA para la Profundidad por Estación del Año
+
+                   sum_sq       df         F        PR(>F)
+C(Estacion)  2.396025e+05      3.0  11.09924  2.845754e-07
+Residual     8.996861e+07  12503.0       NaN           NaN
